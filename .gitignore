@@ -1,0 +1,9 @@
+# Notebook checkpoints
+.ipynb_checkpoints/
+
+# Colab / local
+*.pyc
+__pycache__/
+
+# Data/results (optional)
+results/
