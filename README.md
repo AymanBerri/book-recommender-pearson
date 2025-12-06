@@ -18,6 +18,7 @@ Built using **Python, PySpark**, and Google Colab.
 
 ## Project Structure
 
+```
 book-recommendation-cf/
 │
 ├─ data/
@@ -27,7 +28,7 @@ book-recommendation-cf/
 ├─ notebooks/
 │   └─ BookRecommendation.ipynb     - Main Colab notebook
 └─ README.md                        - Project overview
-
+```
 ---
 
 ## How to Run
