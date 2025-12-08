@@ -19,7 +19,7 @@ Built using **Python, PySpark**, and Google Colab.
 ## Project Structure
 
 ```
-book-recommendation-cf/
+book-recommender-pearson/
 │
 ├─ data/
 │   ├─ book_similarity.csv          - Item-item similarity scores
